@@ -1,0 +1,13 @@
+// CONDITIONAL OPERATORS  
+// A shorthand “if – else” can be written using the conditional or ternary operators 
+// condition ? expression-if-true : expression-if-false 
+// Here "?" and ":" are called "Ternary Operators".
+
+#include <stdio.h>
+
+int main(){
+    // condition ? expression-if-true : expression-if-false
+    int a = 345;
+    int b= 345452;
+    a>b?printf("a is greater"):printf("b is greater");
+}

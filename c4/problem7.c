@@ -1,0 +1,1 @@
+// Q:- Write a program to implement program 6 using ‘for’ and ‘do-while’ loop. 
