@@ -1,1 +1,0 @@
-// Q:- Repeat problem 9 using while loop. 
