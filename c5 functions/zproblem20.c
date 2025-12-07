@@ -1,0 +1,1 @@
+// Q: Write a function to check if a number is Perfect, Harshad, or Strong number.

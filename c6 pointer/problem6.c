@@ -1,0 +1,1 @@
+// Q: Write a program that checks if a pointer is NULL before dereferencing it.

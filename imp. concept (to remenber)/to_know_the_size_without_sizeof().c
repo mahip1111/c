@@ -1,0 +1,1 @@
+// TO REMEMBER: &x is always used for giving the base adress means 1st bite ka adress deta hai.

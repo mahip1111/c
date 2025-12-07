@@ -1,0 +1,1 @@
+// NOTE: array ko ya toh apko size dena hoga ya toh ye toh initialize karna hoga (int arr[]={1,3,4}) only then the array will work otherwise it will throw you the error.

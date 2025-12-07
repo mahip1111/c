@@ -1,0 +1,1 @@
+// Q: write a code to print the pascals tringle using the funcitons in c.
