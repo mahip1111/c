@@ -26,3 +26,5 @@ Example:
 o 5/2 becomes 2 as both the operands are int 
 o 5.0/2  becomes 2.5 as one of the operands is float 
 o 2/5 becomes 0  as both the operands are int */
+
+// this concept is called as: Implicit Type Conversion / Type Promotion (Automatic Type Casting)
