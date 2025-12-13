@@ -17,3 +17,16 @@ int main()
 
     return 0;
 }
+
+// #include <stdio.h>
+
+// int main(){
+//     int i=0;
+//     while (i<=20 && i>=10)  // wrong bcz 0>=10 is false statement therefore condition goes false and thus loop start hi nahi hoga.
+//     {
+//         printf("%d",i);
+//         i++;
+//     }
+    
+//     return 0;
+// }

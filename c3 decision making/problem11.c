@@ -1,6 +1,8 @@
 // write a code to find the roots of the quadratic equation.
+// check this code again.
 
 #include <stdio.h>
+#include <math.h>
 
 int main() {
     float a, b, c;

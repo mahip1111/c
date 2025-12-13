@@ -6,14 +6,17 @@ int main()
     ptr = fopen("harry.txt", "r");
     int num;
     fscanf(ptr, "%d", &num);
-    printf("The value of num is %d \n", num);
+    printf("The value of num is %d \n", num);  // 432
 
     fscanf(ptr, "%d", &num);
-    printf("The value of num is %d \n", num);
+    printf("The value of num is %d \n", num);  // 56
 
     fscanf(ptr, "%d", &num);
-    printf("The value of num is %d \n", num);
+    printf("The value of num is %d \n", num);  //56
 
+    fscanf(ptr, "%d", &num);
+    printf("The value of num is %d \n", num);  //56
+    
     fclose(ptr);
     
     return 0;

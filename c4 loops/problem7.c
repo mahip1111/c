@@ -25,3 +25,21 @@ int main() {
 // Therefore: Sum=n×55
 
 // this method is shown in the next file.
+
+
+// method using the do while loop.
+// #include <stdio.h>
+
+// int main(){
+//     int sum=0;
+//     int n;
+//     int i=1;
+//     printf("enter the value of n:");
+//     scanf("%d",&n);
+//     do{
+//         sum+=n*i;
+//         i++;
+//     }while(i<=10);
+//     printf("%d",sum);
+//     return 0;
+// }

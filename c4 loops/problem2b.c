@@ -1,4 +1,5 @@
 // one line method of the problem 2 (not proffessional but short)
+// very smart method.
 
 #include <stdio.h>
 int main(){

@@ -1,4 +1,4 @@
-//Q:- Write a program to calculate the factorial of a given number using a for loop. 
+// //Q:- Write a program to calculate the factorial of a given number using a for loop. 
 
 #include <stdio.h>
 
@@ -29,3 +29,29 @@ int main() {
 // for (int i = 1; i <= n; i++)
 // → Here i = 1, but 1 <= 0 is false, so the loop never runs.
 // The variable factorial was initialized to 1, and since the loop never changes it, its value remains 1.
+
+
+// solving using the do while loop.
+// #include <stdio.h>
+
+// int main() {
+//     int n;
+//     long long factorial = 1;
+//     int i = 1;
+
+//     printf("Enter the value of n: ");
+//     scanf("%d", &n);
+
+//     if (n < 0) {
+//         printf("Factorial is not defined for negative numbers.\n");
+//     } else {
+//         do {
+//             factorial *= i;
+//             i++;
+//         } while (i <= n);
+
+//         printf("Factorial of %d is: %lld\n", n, factorial);
+//     }
+
+//     return 0;
+// }
