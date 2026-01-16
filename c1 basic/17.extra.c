@@ -8,13 +8,6 @@ Isko conditional operator isliye kehte hain kyunki ye condition ke basis par dec
 // They cannot be redefined or used as variable names.
 // Each keyword has a specific purpose in the program.
 
-// Rules of identifiers:-
-// first character must be alphabet or underscore
-// must consist only of letters digits and undescore
-// only first 31 characters are significant
-// cannot be a keyword.
-// must not contain white space
-
 // 💡 Summary:
 // Keyword → fixed reserved words
 // Identifier → programmer-defined names
@@ -25,4 +18,3 @@ Isko conditional operator isliye kehte hain kyunki ye condition ke basis par dec
 
 // A unary expression is an expression that operates on only one operand using a unary operator.In other words, it applies an operation to a single variable or value. Some common such operators are +, ++, +=, *=, and so.
 
-// sara operators ka name with example ek jagha tariqa se likho.

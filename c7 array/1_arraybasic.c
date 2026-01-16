@@ -10,9 +10,9 @@ int main(){
 
     // We can go all the way till marks[89] and not marks[90] bcz 90 integers hi store honga and here you include 0
 
-    // printf("Marks 0 and Marks 1 is %d %d", marks[0] , marks[1]);     // This will not print , bcz apna %d placeholders ke bich ma , nhi dala hai.
+    // printf("Marks 0 and Marks 1 is %d %d", marks[0] , marks[1]);     // This will not print "," in between the marks bcz apna %d placeholders ke bich ma "," nhi dala hai.
 
-    printf("Marks 0 and Marks 1 is %d , %d" , marks[0] , marks[1]);    // This will print , due to the , you put in btw the placeholders.
+    printf("Marks 0 and Marks 1 is %d , %d" , marks[0] , marks[1]);    // This will print "," in between the marks due to the , you put in btw the placeholders.
 
     return 0;
 }

@@ -1,3 +1,4 @@
+// this code have some problem you need to do it right with the help of gpt
 #include <stdio.h>
 
 int main()

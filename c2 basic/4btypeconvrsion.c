@@ -50,3 +50,5 @@
 // Syntax	            No special syntax	        (type_name) expression
 // Risk	            Usually safe, no data loss	May cause data loss if not careful
 // Example	            int + float → float	        (float)int / int
+
+// thoda padho aur about the the implicit and explicit.

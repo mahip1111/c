@@ -10,4 +10,4 @@ int main(){
     return 0;
 }
 
-// This code is wrong as index n is bot possibe here but still it works bcz during the compilation c dont check the bounds like in python and other languages and due to these things c is the fastest language.
+// This code is wrong as index n is not possibe here but still it works bcz during the compilation c dont check the bounds like in python and other languages and due to these things c is the fastest language.

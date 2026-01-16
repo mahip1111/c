@@ -7,7 +7,7 @@
 // In C language too, we must be able to execute instructions on a condition(s) being met.
 
 
-// DECISION MAKING INSTRUCTIONS IN C  
+// DECISION MAKING INSTRUCTIONS IN C are:
 // • if–else statement 
 // • switch statement
 

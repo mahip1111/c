@@ -13,4 +13,4 @@ int main(){
     return 0;
 }
 
-// Here sice apna free(ptr) apna printf ka upar likha thaerefore in this case ptr[0] ki garbage value print ho jayegi.
+// Here since apna free(ptr) apna printf ka upar likha therefore in this case ptr[0] ki garbage value print ho jayegi.

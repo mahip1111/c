@@ -9,5 +9,6 @@ int main()
     fputc('c', ptr);   // if you use append then it will print c at end and if use write then it will only a c on the whole file.
     return 0;
 }
+// since apna yahan par file read mode ma kholi hai therefore fputc will not work here
 
 // thoda sa aur padho fputc and fgetc.

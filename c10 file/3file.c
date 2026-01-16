@@ -5,9 +5,8 @@ int main()
     FILE *ptr;
     ptr = fopen("harry.txt", "r");
 
-    if(ptr == NULL ){           // tis line is used to know ki file exist karti hai ki nahi.
-        printf("The file does not exist sorry! \n");
-        
+    if(ptr == NULL ){           // this line is used to know ki file exist karti hai ki nahi.
+        printf("The file does not exist sorry! \n");   
     }
 
     else{
