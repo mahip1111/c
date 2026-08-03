@@ -1,4 +1,5 @@
-// to find the highest of the given elements
+// to find the highest of the given element
+
 #include <stdio.h>
 
 int findMax(int arr[], int n) {

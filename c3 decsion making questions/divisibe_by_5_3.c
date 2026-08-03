@@ -1,4 +1,4 @@
-// write a code to tell whether the number entered by the user is divisible by the 5 and 3 but not 15.
+// write a code to tell whether the number entered by the user is divisible by the 5 or 3 but not 15.
 #include <stdio.h>
 
 int main() {

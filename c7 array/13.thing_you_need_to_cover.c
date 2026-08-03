@@ -1,0 +1,1 @@
+// pointer to array and array to pointer in multidimentsional and liner array

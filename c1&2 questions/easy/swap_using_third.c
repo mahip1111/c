@@ -24,3 +24,5 @@ int main() {
 }
 
 // suppose a=1 and b=2.
+
+// you can also solve this problem using the xor and multiply divide concept in the same way you use the add subtract conept above

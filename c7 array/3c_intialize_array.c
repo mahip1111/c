@@ -12,10 +12,10 @@ int D[] = {10, 20, 30};
 
 //printing array values
 
-printf("%d\n", A1[0]);
-printf("%d\n", A1[1]);
-printf("%c\n", C[2]);
-printf("%d\n", A1[5]); //garbage value
+printf("%d\n", a[0]);
+printf("%d\n", a[1]);
+printf("%c\n", c[2]);
+printf("%d\n", a[5]); //garbage value
 
 // multi-dimensional arrays
 
@@ -25,9 +25,9 @@ int m[2][3] = {{4,5,2}, {14,5,1}}; // A 2 x 3 matrix
 //        4    5   2
 //        14   5   1      
 
-for (i=0; i<2; i++)
+for (int i=0; i<2; i++)
 {
-        for (j=0; j<3; j++)
+        for (int j=0; j<3; j++)
         {
             printf("%d \t", m[i][j]);
         }
@@ -38,9 +38,9 @@ float table[2][3] = { 0.1 ,0.1 ,0.1 , 1, 1, 1 };
 printf("%d",table[1][1]);
 int table2[2][3] = {{2}, {5}};
 
-for (i=0; i<2; i++)
+for (int i=0; i<2; i++)
 {
-        for (j=0; j<3; j++)
+        for (int j=0; j<3; j++)
         {
             printf("%d \t", table2[i][j]);
         }

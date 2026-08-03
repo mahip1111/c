@@ -23,3 +23,7 @@ int main(){
     }
     return 0;
 }
+
+// Switch expression mein kya de sakte ho:
+// Sirf integer types — bas itna!
+// TypeAllowed int✅ char✅ short✅ long✅ enum✅  (float/double❌) string❌ pointer❌
